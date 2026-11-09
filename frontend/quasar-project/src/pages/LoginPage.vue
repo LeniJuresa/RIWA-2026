@@ -18,7 +18,7 @@
       label="Lozinka *"
       lazy-rules
       :rules="[
-        val => (val && val.length > 0) || 'Unesite lozinku',
+        val => (val && val.length > 0) || 'Kreirajte lozinku',
         val => (val && val.length > 3) || 'Lozinka mora sadržavati više od 4 znakova'
 
       ]"

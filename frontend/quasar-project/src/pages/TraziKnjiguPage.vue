@@ -25,5 +25,5 @@ import { ref } from 'vue'
 
 
 const poNaslovu =ref(false)
-const poAutoru = ref(false)
+const poAutoru  =ref(false)
 </script>

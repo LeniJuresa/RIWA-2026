@@ -10,7 +10,10 @@ const routes = [
       { path: 'o_nama', component: () => import('@/pages/ONamaPage.vue') },
       { path: 'lokacija', component: () => import('@/pages/LokacijaPage.vue') },
       { path: 'login', component: () => import('@/pages/LoginPage.vue') },
-      { path: 'registracija', component: () => import('@/pages/RegistracijaPage.vue') }
+      { path: 'registracija', component: () => import('@/pages/RegistracijaPage.vue') },
+      { path: 'test', component: () => import('@/pages/TestPage.vue') },
+      { path: 'test2', component: () => import('@/pages/TestPage2.vue') },
+      { path: 'test3', component: () => import('@/pages/TestPage3.vue') }
     ]
   },
 
