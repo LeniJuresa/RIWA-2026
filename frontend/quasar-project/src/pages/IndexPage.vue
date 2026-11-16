@@ -12,6 +12,8 @@
 
       <q-btn class="q-mt-md" color="blue" to="/test3" label="TestPage3" no-caps />
 
+      <q-btn class="q-mt-md" color="yellow" to="/test4" label="TestPage4" no-caps />
+
 
 
     </div>
